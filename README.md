@@ -1,59 +1,74 @@
-# Ho's Macropad
+# Abdelrahman's Macropad ✨
 
-For Hack Club's Hackpad :)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)](#)
 
-## Overview
+A compact, one-handed macro controller designed for portability, efficiency, and customization. Ideal for travelers, streamers, hybrid workers, or anyone looking to streamline their workflow.
 
-`Ho's Macropad` is a compact macro controller with keys arranged in a single row so the unit lays flat when stored. The linear layout reduces protrusions and makes the pad easy to slip into sleeves, pockets, or cases.
-
-## Schematic
-![alt text](image-4.png)
-
-## PCB
-![alt text](image.png)
-Slim. Simple. Stowed.
-
-
-## Case Fitment!
-
-![alt text](image-3.png)
-
-
-
-## Elevator Pitch
-
-Designed for portability and one-handed efficiency, `Ho's Macropad` places your most-used macros on a single row so it deploys quickly and packs away effortlessly.
-![alt text](image.png)
-## Features
-
-- Single-row key layout for low-profile storage
-- One-handed macro access for efficient workflows
-- Small footprint — fits laptop sleeves and bags
-- Easily programmable for shortcuts, media controls, or macros
-
-## Usage
-
-1. Map your favorite shortcuts and macros to the row of keys.
-2. Use the pad for editing, streaming shortcuts, or system controls.
-3. When finished, lay it flat and slip it into your bag — cables and keys will not snag.
-
-## Quick Start
-
-- Connect via USB (or your configured transport).
-- Flash your preferred keymap or use the default one included in this repo.
-- Customize layers and macros to match your workflow.
-
-## Who It's For
-
-Travelers, hybrid workers, streamers, and any user who wants powerful macro control without the bulk.
-
-
-# BOM 
-4x - Cherry MX Switches
-1x - XIAO RP2040
-4x - Blank DSA Keycaps
-4x - M3x16 Bolts
-4x - M3 Heatset
-(3d printed parts)
 ---
 
+## 🚀 Overview
+
+Abdelrahman's Macropad features a **single-row key layout**, allowing it to lay flat when not in use. Its **low-profile design** makes it easy to store in laptop sleeves, bags, or pockets without snagging cables or keys.
+
+---
+
+## ✨ Features
+
+* **Single-row layout** — Minimalist design for low-profile storage
+* **One-handed operation** — Quick access to your most-used macros
+* **Small footprint** — Fits laptop sleeves and bags
+* **Fully programmable** — Customize keys for shortcuts, media controls, or macros
+
+---
+
+## 📐 Elevator Pitch
+
+Designed for **speed and portability**, Abdelrahman's Macropad puts essential shortcuts at your fingertips. Perfect for editing, streaming, or system control — deploy quickly, use efficiently, and store effortlessly.
+
+---
+
+## 🖼 Schematic & PCB
+
+| Schematic                 | PCB Layout        | Case Fitment         |
+| ------------------------- | ----------------- | -------------------- |
+| ![Schematic](image-4.png) | ![PCB](image.png) | ![Case](image-3.png) |
+
+---
+
+## ⚡ Usage
+
+1. Connect via USB (or your configured transport).
+2. Flash your preferred keymap or use the default provided in this repository.
+3. Map keys to shortcuts, media functions, or macros.
+4. Lay flat and store when not in use — no snagging cables or keys.
+
+---
+
+## 🏁 Quick Start
+
+* **Plug in:** Connect the macropad via USB
+* **Flash keymap:** Use the default or customize your own
+* **Use:** Start enhancing your workflow immediately
+
+---
+
+## 📦 Bill of Materials (BOM)
+
+| Quantity | Component          | Description          |
+| -------- | ------------------ | -------------------- |
+| 4        | Cherry MX Switches | Mechanical switches  |
+| 1        | Seeed XIAO RP2040  | Microcontroller      |
+| 4        | Blank DSA Keycaps  | Keycaps for switches |
+| 4        | M3 × 16 Bolts      | Mounting hardware    |
+| 4        | M3 Heatset Inserts | For secure assembly  |
+| –        | 3D printed parts   | Custom macropad case |
+
+---
+
+## 👤 Who It's For
+
+* Travelers
+* Hybrid workers
+* Streamers
+* Anyone wanting **powerful macro control** without bulk
