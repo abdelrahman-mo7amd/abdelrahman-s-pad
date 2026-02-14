@@ -35,9 +35,9 @@ This macropad is all about **speed and portability**. Whether you’re editing, 
 ## How to Use It:
 
 1. Connect the macropad via USB (or your preferred connection).
-2. Flash your chosen keymap — either the default one or your own.
+2. Flash your chosen keymap, either the default one or your own.
 3. Assign each key to a shortcut, media control, or macro.
-4. When you’re done, lay it flat and store — no cables or keys will get in the way.
+4. When you’re done, lay it flat and store, no cables or keys will get in the way.
 
 ---
 
